@@ -1,0 +1,10 @@
+/* @import url(./__image/fotograph__image.css);
+@import url(./__name/fotograph__name.css);
+@import url(./__text/fotograph__text.css); */
+
+.fotograph {
+
+
+    background-color: #2a2c2f;
+    text-align: center;
+}

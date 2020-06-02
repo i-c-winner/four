@@ -1,0 +1,13 @@
+.video__iframe-fon{
+    position: absolute;
+    background: rgba(0, 0,0, 0.2);
+    top: 0px;
+    left: 0px;
+    right:0px;
+    bottom: 0px;
+    width: 100%;
+}
+
+.video__iframe-fon:hover{
+    background: rgba(0, 0,0, 0.5);
+}

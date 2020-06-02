@@ -1,0 +1,6 @@
+.header__wrapper{
+    display: flex;
+    min-width:78px;
+    justify-content: space-between;
+    align-items: flex-end;
+}

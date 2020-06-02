@@ -1,0 +1,42 @@
+.video__conteiner{
+ width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+   
+}
+
+@media screen and (max-width:360px){          /* 320*/
+.video__conteiner{
+    display: block;
+}
+} 
+@media screen and (min-width:361px) and (max-width:700px){     /*375*/
+.video__conteiner{
+   display: block; 
+}
+}
+@media screen and (min-width:701px) and (max-width:1000px){     /*768*/
+.video__conteiner{
+
+}
+}
+@media screen and (min-width:1001px) and (max-width:1200px){     /*1024*/
+.video__conteiner{
+
+}
+}
+@media screen and (min-width:1201px) and (max-width:1400px){     /*1280*/
+.video__conteiner{
+
+width:100%;
+justify-content: center;
+
+
+}
+}
+@media screen and (min-width:1401px) {     /*1440*/
+.video__conteiner{
+
+}
+}

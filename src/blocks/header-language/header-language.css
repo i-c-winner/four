@@ -1,0 +1,41 @@
+@import url(./_rus/header-language_rus.css);
+@import url(./_en/header-language_en.css);
+
+.header-language {
+    width: 40px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 26px;
+color: #FFFFFF;
+text-decoration: none;
+text-align: right;
+}
+
+.header-language:hover {
+   
+    opacity: .5;
+    }
+    
+    @media screen and (max-width:360px) {          /* 320*/
+        .header-language {
+            font-size: 20px;
+        }
+    } 
+    @media screen and (min-width:361px) and (max-width:700px){     /*375*/
+    .header-language{
+        font-size: 18px;
+    }
+    }
+    @media screen and (min-width:701px) and (max-width:1000px){     /*768*/
+    
+    }
+    @media screen and (min-width:1001px) and (max-width:1200px){     /*1024*/
+    
+    }
+    @media screen and (min-width:1201px) and (max-width:1400px){     /*1280*/
+    
+    }
+    @media screen and (min-width:1401px) {     /*1440*/
+    
+    }

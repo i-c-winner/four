@@ -1,0 +1,56 @@
+@import url('./vendor/fonts.css');
+@import url('./vendor/normalize.css');
+
+@import url('./blocks/fotograph/fotograph.css');
+@import url('./blocks/item-main/item-main.css');
+@import url('./blocks/logo/logo.css');
+/* @import url(./blocks/place-image/place-image.css); */
+@import url('./blocks/foto-person/foto-person.css');
+@import url('./blocks/baykal/baykal.css');
+/* @import url(./blocks/geraldry/geraldry.css); */
+/* @import urL(../blocks/barents/barents.css); */
+@import url('./blocks/video/video.css');
+@import url('./blocks/video/__iframe/_one/video__iframe_one.css');
+@import url('./blocks/video/__iframe/_two/video__iframe_two.css');
+@import url('./blocks/header/header.css');
+@import url('./blocks/footer/footer.css');
+@import url('./blocks/lead/lead.css');
+@import url('./blocks/page/page.css');
+@import url('./blocks/intro/intro.css');
+@import url('./blocks/photo-grid/photo-grid.css');
+@import url('./blocks/header-language/header-language.css');
+@import url('./blocks/header-language/_status/_activ/header-language_status_active.css');
+
+
+
+
+
+@import url('./blocks/info-subtitle/_place/info-subtitle_place_additional.css');
+@import url('./blocks/info-subtitle/_place/info-subtitle_place_barents.css');
+@import url('./blocks/info-subtitle/_place/info-subtitle_place_baykal.css');
+@import url('./blocks/info-subtitle/_place/info-subtitle_place_fotograph.css');
+@import url('./blocks/info-subtitle/_place/info-subtitle_place_intro.css');
+@import url('./blocks/info-subtitle/_place/info-subtitle_place_lead.css');
+@import url('./blocks/info-subtitle/_place/info-subtitle_place_place-image.css');
+@import url('./blocks/info-subtitle/_place/info-subtitle_place_video.css');
+
+
+@import url('./blocks/info-title/_place/info-title_place_additional.css');
+/* @import url(../blocks/info-title/_place/info-title_place_barents.css); */
+@import url('./blocks/info-title/_place/info-title_place_fotograph.css');
+@import url('./blocks/info-title/_place/info-title_place_geraldry.css');
+@import url('./blocks/info-title/_place/info-title_place_intro.css');
+@import url('./blocks/info-title/_place/info-title_place_lead.css');
+@import url('./blocks/info-title/_place/info-title_place_video.css');
+@import url('./blocks/info-title/_place/info-title_place_baykal.css');
+@import url('./blocks/info-title/_place/info-title_place_place-image.css');
+@import url('./blocks/info-title/_place/info-title_place_video-top.css');
+@import url('./blocks/info-title/_place/info-title_place_baykal-top.css');
+@import url('./blocks/info-title/_place/info-title_place_baykal-write.css');
+@import url('./blocks/info-title/_place/info-title_place_baykal-write.css');
+
+
+@import url('./blocks/info-title/info-title.css');
+@import url('./blocks/info-subtitle/info-subtitle.css');
+
+@import url('./blocks/body/body.css');

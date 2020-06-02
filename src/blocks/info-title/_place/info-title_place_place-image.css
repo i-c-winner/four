@@ -1,0 +1,13 @@
+.info-title_place_place-image{
+position: absolute;
+width: 248px;
+
+left: 18px;
+top: 30px;
+font-weight: bold;
+font-size: 27px;
+line-height: 29px;
+margin-top: 0px;
+text-align: left;
+z-index: 2;
+}

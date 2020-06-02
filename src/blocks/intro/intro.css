@@ -1,0 +1,49 @@
+@import url(./__left/intro__left.css);
+@import url(./__right/intro__right.css);
+@import url(./__text/intro__text.css);
+@import url(./__about-text/intro__about-text.css);
+@import url(./__text/_bold/intro__text_bold.css);
+@import url(./__about-text/_bold/intro__about-text_bold.css);
+@import url(./__text/_left-bottom/intro__text_left-bottom.css);
+@import url(./__text/_right/intro__text_right.css);
+@import url(./__wrapper/intro__wrapper.css);
+@import url(./__text-bold/intro__text-bold.css);
+
+
+.intro{
+    font-family: "Inter";
+    max-width: 100%;
+    display: flex;
+    color:white;
+    background-color: #2a2c2f;
+    text-align: left;
+    padding-bottom:64px ;
+}
+
+@media screen and (max-width:360px){          /* 320*/
+
+} 
+@media screen and (min-width:361px) and (max-width:700px){     /*375*/
+
+}
+@media screen and (min-width:701px) and (max-width:1000px){     /*768*/
+    .intro {
+        padding-bottom:90px;
+    }
+}
+@media screen and (min-width:1001px) and (max-width:1200px){     /*1024*/
+.intro {
+    padding-bottom:92px;
+}
+}
+@media screen and (min-width:1201px) and (max-width:1400px){     /*1280*/
+    .intro {
+        padding-bottom:97px;
+    }
+}
+@media screen and (min-width:1401px) {     /*1440*/
+    .intro {
+        padding-bottom:101px;
+    }
+}
+

@@ -1,0 +1,60 @@
+.info-subtitle_place_fotograph{
+width: 640px;
+
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 35px;
+margin: 0px auto 66px;
+}
+
+@media screen and (max-width:360px){     /*375*/
+    .info-subtitle_place_fotograph{
+        font-size: 16px;
+        line-height: 23px;
+        margin: 0px auto 0px;
+        width:288px;
+    }
+    }
+@media screen and (min-width:361px) and (max-width:700px){     /*375*/
+    .info-subtitle_place_fotograph{
+        font-size: 16px;
+        line-height: 23px;
+        margin: 0px auto 16px;
+        width:332px;
+    }
+    }
+    @media screen and (min-width:701px) and (max-width:1000px){     /*768*/
+    .info-subtitle_place_fotograph{
+        font-size: 24px;
+        line-height: 35px;
+        margin: 0px 46px 16px;
+        width:648px;
+    }
+    }
+    @media screen and (min-width:1001px) and (max-width:1200px){     /*1024*/
+    .info-subtitle_place_fotograph{
+        font-size: 24px;
+        line-height: 35px;
+        margin: 0px auto 63px;
+        width:640px;
+    }
+    }
+    @media screen and (min-width:1201px) and (max-width:1400px){     /*1280*/
+    .info-subtitle_place_fotograph{
+        font-size: 24px;
+        line-height: 35px;
+        margin: 0px auto 60px;
+        width:640px;
+    }
+    }
+    @media screen and (min-width:1401px) {     /*1440*/
+    .info-subtitle_place_fotograph{
+        font-size: 24px;
+        line-height: 35px;
+        margin: 0px auto 73px;
+        width:640px;
+    }
+    }
+
+    

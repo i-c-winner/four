@@ -1,0 +1,54 @@
+.baykal__image{
+  
+    width: 100%;
+    text-decoration: none;
+    object-fit: cover;
+    background: linear-gradient(45deg, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../../../images/baykalsobaka.jpg); 
+        background-size: cover;
+    
+    
+}   
+
+
+.baykal__image:hover{
+  
+    background: linear-gradient(to right, rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../../../images/baykalsobaka.jpg); 
+    background-size: cover;
+}   
+
+
+
+@media screen and (max-width:360px){          /* 320*/
+.baykal__image{
+    padding-top: 64px;
+}
+} 
+@media screen and (min-width:361px) and (max-width:700px){     /*375*/
+.baykal__image{
+    padding-top: 107px;
+}
+}
+@media screen and (min-width:701px) and (max-width:1000px){     /*768*/
+.baykal__image{
+    padding-top: 175px;
+}
+}
+@media screen and (min-width:1001px) and (max-width:1200px){     /*1024*/
+.baykal__image{
+    padding-top: 211px;
+}
+}
+@media screen and (min-width:1201px) and (max-width:1400px){     /*1280*/
+.baykal__image{
+    padding-top: 274px;
+}
+}
+@media screen and (min-width:1401px) {     /*1440*/
+.baykal__image{
+    padding-top: 274px;
+}
+}
+
+
+
+   

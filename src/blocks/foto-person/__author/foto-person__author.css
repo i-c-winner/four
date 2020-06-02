@@ -1,0 +1,44 @@
+.foto-person__author{
+
+    color: white;
+ margin:0px;
+ font-weight: 900;
+
+
+}
+
+@media screen and (max-width:360px){          /* 320*/
+.foto-person__author{
+    order:2;
+    margin-bottom: 24px;
+}
+} 
+@media screen and (min-width:361px) and (max-width:700px){     /*375*/
+.foto-person__author{
+    order:2;
+    margin-bottom: 24px;
+}
+}
+@media screen and (min-width:701px) and (max-width:1000px){     /*768*/
+.foto-person__author{
+    order:2;
+    margin-bottom: 25px; 
+    font-size: 14px;
+    line-height: 19px;
+}
+}
+@media screen and (min-width:1001px) and (max-width:1200px){     /*1024*/
+.foto-person__author{
+    
+}
+}
+@media screen and (min-width:1201px) and (max-width:1400px){     /*1280*/
+.foto-person__author{
+    
+}
+}
+@media screen and (min-width:1401px) {     /*1440*/
+.foto-person__author{
+    
+}
+}

@@ -1,0 +1,10 @@
+.video__iframe_two{
+    background: linear-gradient(45deg, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../../../../images/imagesecond.jpg); 
+        background-size: cover;     
+}   
+
+.video__iframe_two:hover{
+
+background: linear-gradient(to right, rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../../../../images/imagesecond.jpg); 
+background-size: cover;
+}  

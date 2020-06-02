@@ -1,0 +1,59 @@
+.info-title_place_baykal{
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 78px;
+position: relative;
+z-index: 2;
+text-decoration: none;
+display: block;
+
+
+}
+
+@media screen and (max-width:360px){          /* 320*/
+.info-title_place_baykal{
+    margin:0px auto 7px;
+    font-size: 32px;
+    line-height: 35px;
+
+}
+} 
+@media screen and (min-width:361px) and (max-width:700px){     /*375*/
+.info-title_place_baykal{
+    margin:0px auto 7px;
+    font-size: 32px;
+    line-height: 35px;
+    width: 239px;
+}
+}
+@media screen and (min-width:701px) and (max-width:1000px){     /*768*/
+.info-title_place_baykal{
+    margin:0px auto 51px;
+    font-size: 72px;
+    line-height: 78px;
+}
+}
+@media screen and (min-width:1001px) and (max-width:1200px){     /*1024*/
+.info-title_place_baykal{
+    margin:0px auto 78px;
+    font-size: 72px;
+    line-height: 76px;
+}
+}
+@media screen and (min-width:1201px) and (max-width:1400px){     /*1280*/
+.info-title_place_baykal{
+    margin:0px auto 134px;
+    font-size: 72px;
+    line-height: 76px;
+    display: none;
+}
+}
+@media screen and (min-width:1401px) {     /*1440*/
+.info-title_place_baykal{
+    margin:0px auto 121px;
+    font-size: 72px;
+    line-height: 76px;
+    display: none;
+}
+}

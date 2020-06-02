@@ -1,0 +1,40 @@
+.page{
+   
+    width:100% ;
+    text-align: center;
+    margin:0px auto;
+    font-family: 'Inter', 'Arial', sans-serif;
+    box-sizing: border-box;
+    max-width: 1450px;
+    }
+
+    @media screen and (max-width:360px){          /* 320*/
+.page{
+    padding:0px 16px;
+}
+    } 
+    @media screen and (min-width:361px) and (max-width:700px){     /*375*/
+    .page{
+        padding:0px 16px;
+    }
+    }
+    @media screen and (min-width:701px) and (max-width:1000px){     /*768*/
+    .page{
+        padding:0px 24px;
+    }
+    }
+    @media screen and (min-width:1001px) and (max-width:1200px){     /*1024*/
+    .page{
+        padding:0px 48px;
+    }
+    }
+    @media screen and (min-width:1201px) and (max-width:1400px){     /*1280*/
+    .page{
+        padding:0px 148px;
+    }
+    }
+    @media screen and (min-width:1401px) {     /*1440*/
+    .page{
+        padding:0px 228px;
+    }
+    }

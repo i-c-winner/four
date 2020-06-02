@@ -1,0 +1,10 @@
+/* @import url(./_director/video__description.css);
+@import url(./_title/video__title.css); */
+
+.video__text {
+
+    font-style: normal;
+    color: white;
+    text-align: left;
+
+}

@@ -1,0 +1,63 @@
+@import url(./__link/item-main__link.css);
+@import url(./__paragraph/item-main__paragraph.css);
+@import url(./__url/item-main__url.css);
+@import url(./__column/item-main__column.css);
+@import url(./__image/item-main__image.css);
+@import url(./__title/item-main__title.css);
+@import url(./__box/item-main__box.css);
+@import url(./__column/item-main__column.css);
+/* @import url(./__column/_left/item-main__column_left.css); */
+@import url(./__url-link/item-main__url-link.css);
+@import url(./__box/_bottom/item-main__box_bottom.css);
+
+.item-main {
+    background-color: #2a2c2f;
+    margin: 0px auto 49px;
+
+
+
+}
+
+@media screen and (max-width:360px) {
+    /* 320*/
+
+}
+
+@media screen and (min-width:361px) and (max-width:700px) {
+    /*375*/
+
+}
+
+@media screen and (min-width:701px) and (max-width:1000px) {
+
+    /*768*/
+    .item-main {
+        margin-bottom: 89px;
+    }
+}
+
+@media screen and (min-width:1001px) and (max-width:1200px) {
+
+    /*1024*/
+    .item-main {
+        margin-top: 116px;
+        margin-bottom: 97px;
+    }
+}
+
+@media screen and (min-width:1201px) and (max-width:1400px) {
+
+    /*1280*/
+    .item-main {
+        margin-bottom: 89px;
+        margin-top: 102px;
+    }
+}
+
+@media screen and (min-width:1401px) {
+
+    /*1440*/
+    .item-main {
+        margin-bottom: 89px;
+    }
+}
