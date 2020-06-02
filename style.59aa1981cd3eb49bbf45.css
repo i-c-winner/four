@@ -1386,7 +1386,7 @@ justify-content: center;
 
 
 .video__marker {
-  background-image: url(./images/__icon_play.svg);
+  background-image: url(./images/icon_play.svg);
 
   margin: 0px;
   z-index: 2;
